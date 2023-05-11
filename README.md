@@ -9,7 +9,7 @@
 ### I am a Developer, Enthusiast, Discoverer and Student!
 - Looking for work
 - Graduating Bachelor of Information Systems
-- Foco nas stacks JS (Node e React)
+- React and node
 
 
 ### Short Description
