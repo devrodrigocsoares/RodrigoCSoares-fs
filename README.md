@@ -29,5 +29,5 @@ Always seeking to improve knowledge of languages, hard skills and agile methodol
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCSoares-fs&layout=compact" />
-<img align="left" width="450px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RodrigoCSoares-fs&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=36" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodrigocsoares&layout=compact" />
+<img align="left" width="450px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=devrodrigocsoares &show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&line_height=36" />
