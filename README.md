@@ -10,6 +10,7 @@
 - Looking for work
 - Graduating Bachelor of Information Systems
 - React and node
+- Data Science 
 
 
 ### Short Description
