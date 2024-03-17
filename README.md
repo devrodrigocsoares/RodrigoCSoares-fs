@@ -28,6 +28,7 @@ Always seeking to improve knowledge of languages, hard skills and agile methodol
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 
 
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodrigocsoares&layout=compact" />
