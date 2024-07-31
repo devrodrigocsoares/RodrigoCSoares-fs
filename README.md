@@ -2,7 +2,7 @@
    
 ## Hello, I am Rodrigo Soares 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devrodrigocsoares)](https://github.com/devrodrigocsoares)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-soares-6b8535119/)](https://www.linkedin.com/in/rodrigo-soares-6b8535119/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-soares-6b8535119/)](https://www.linkedin.com/in/devrodrigocsoares/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5588998427392&text=Hello!)](https://api.whatsapp.com/send?phone=5588998427392&text=Hello!)
 
 
